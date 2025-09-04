@@ -563,7 +563,7 @@ export default function HRManagementApp() {
               <CheckCircle className="w-8 h-8 text-green-600" />
             </div>
             <CardTitle className="text-2xl font-bold text-green-900">¡Solicitud Enviada!</CardTitle>
-            <CardDescription>Su solicitud ha sido procesada exitosamente</CardDescription>
+            <CardDescription className="text-sm text-green-700">Su solicitud ha sido procesada exitosamente</CardDescription>
           </CardHeader>
           <CardContent className="space-y-4">
             <div className="bg-green-50 border border-green-200 rounded-lg p-4">
