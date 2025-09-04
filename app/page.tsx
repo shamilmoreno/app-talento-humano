@@ -577,7 +577,7 @@ export default function HRManagementApp() {
                 <strong>Fecha:</strong> {new Date().toLocaleDateString()}
               </p>
             </div>
-            <p className="text-sm text-muted-foreground text-green-700">
+            <p className="text-sm text-green-700">
               Recibirá un archivo PDF con los detalles de su solicitud. Puede consultar el estado en la sección "Mis
               Solicitudes".
             </p>
